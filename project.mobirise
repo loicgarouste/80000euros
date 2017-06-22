@@ -138,7 +138,7 @@
               "src": "images/iphone.png"
             },
             "video": {
-              "src": "https://youtu.be/XSHrQqql7qo",
+              "src": "https://youtu.be/YBpz2PMOSfg",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": "on",
@@ -239,14 +239,14 @@
           "_name": "content4",
           "_styles": {
             ".mbr-section__col .mbr-header__text": {
-              "text-align": "right",
+              "text-align": "left",
               "color": "#553982"
             },
             "P": {
               "font-size": "24px",
               "font-family": "'Titillium Web', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "text-align": "right",
+              "text-align": "left",
               "color": "#553982"
             },
             ".mbr-section-title .mbr-header__text": {
@@ -299,7 +299,7 @@
             }
           },
           "title1": "IDENTIFIANT",
-          "caption1": "\u0003\u0003Nom<br><br>\u0016Nom<br><br>Nom<br><br>Nom<br><br>Nom<br><br>Nom<br><br>Nom<br><br>Nom<br><br>Nom<br><br>Nom",
+          "caption1": "\u0003\u0003RIRIBADGIRL<br><br>\u0016MALIN2F<br><br>ROSSI.MARIE<br><br>VICTORCOL<br><br>RINTINTIN<br><br>ROUGE.FRAN<br><br>BENEDICTE32<br><br>NFATIMA<br><br>MOMO.ABDEL<br><br>ROULETTE22",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -359,7 +359,7 @@
             }
           },
           "title4": "IDENTIFIANT",
-          "caption4": "\u0003\u0003Nom<br><br>\u0016Nom<br><br>Nom<br><br>Nom<br><br>Nom<br><br>Nom<br><br>Nom<br><br>Nom<br><br>Nom<br><br>Nom",
+          "caption4": "<p>\u0003\u0003JOUJOU2000<br><br>\u0016PARIS48<br><br>CAROCOCO<br><br>MISS.VAL<br><br>CMOININI<br><br>CANIYO4<br><br>ECHIPAN<br><br>EGRAINVI<br><br>PATOUNETTE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>CJOIN</p>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
