@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "NewSite-06-20_1657",
+    "name": "TOURNOI80000",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -9,7 +9,11 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 9,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/3d-gold-star-png-photos-128x121.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
   "pages": {
     "index.html": {
