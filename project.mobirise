@@ -117,11 +117,11 @@
             "imageSize": "60",
             "paddingTop": "4",
             "paddingBottom": "4",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
-            "bgColor": "#f97352",
-            "bgColorRadio": false,
+            "bgColor": "#76b865",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -142,7 +142,7 @@
               "src": "images/iphone.png"
             },
             "video": {
-              "src": "https://youtu.be/YBpz2PMOSfg",
+              "src": "https://youtu.be/d83MJgFpd7w",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": "on",
@@ -158,7 +158,7 @@
           "title": "LE TOURNOI QUE VOUS NE POUVEZ MANQUER SOUS AUCUN PRETEXTE",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://goo.gl/pVzjsC\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOUER EN CLIQUANT ICI</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://goo.gl/pVzjsC\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VOTRE CADEAU ICI</a>"
         },
         {
           "_tags": [
@@ -303,7 +303,7 @@
             }
           },
           "title1": "IDENTIFIANT",
-          "caption1": "\u0003\u0003RIRIBADGIRL<br><br>\u0016MALIN2F<br><br>ROSSI.MARIE<br><br>VICTORCOL<br><br>RINTINTIN<br><br>ROUGE.FRAN<br><br>BENEDICTE32<br><br>NFATIMA<br><br>MOMO.ABDEL<br><br>ROULETTE22",
+          "caption1": "RINTINTIN<br><br>MILFATO<br><br>POISSERR<br><br>VICTORCOL<br><br>ROSSI.MA<br><br>BRIGITTEMA<br><br>BENEDICTE32<br><br>JEANPETIT<br><br>KHAFIR.ABOU<br><br>ROULETTE22",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -363,7 +363,7 @@
             }
           },
           "title4": "IDENTIFIANT",
-          "caption4": "<p>\u0003\u0003JOUJOU2000<br><br>\u0016PARIS48<br><br>CAROCOCO<br><br>MISS.VAL<br><br>CMOININI<br><br>CANIYO4<br><br>ECHIPAN<br><br>EGRAINVI<br><br>PATOUNETTE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>CJOIN</p>",
+          "caption4": "<p>\u0003\u0003MADELINE.54<br><br>\u0016PORTALVERA<br><br>LAVALINE27<br><br>GROSJEAN22<br><br>JJOUEUR60<br><br>JJOEUR60<br><br>EGRAINVI</p><br><p>NATHTUP</p><br><p>SISSI54000 &nbsp; &nbsp;</p><p>VALERIE17</p>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -453,7 +453,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACTEZ NOUS</a>"
         }
       ]
     }
