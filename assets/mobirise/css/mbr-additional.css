@@ -1,5 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
-
 #msg-box5-4 .mbr-header__text {
   color: #553982;
   text-align: right;
@@ -23,17 +21,15 @@
 #msg-box4-2 .mbr-article {
   color: #ffffff;
 }
-#content4-5 .mbr-section__col .mbr-header__text {
+#content4-9 .mbr-section__col .mbr-header__text {
   text-align: left;
-  color: #553982;
+  font-size: 22px;
 }
-#content4-5 P {
-  font-size: 24px;
-  font-family: 'Titillium Web', sans-serif;
+#content4-9 P {
+  color: #000000;
   text-align: left;
-  color: #553982;
+  font-size: 20px;
 }
-#content4-5 .mbr-section-title .mbr-header__text {
-  color: #252525;
-  font-size: 30px;
+#content4-9 .mbr-section__col .mbr-header__text SPAN {
+  font-size: 20px;
 }
