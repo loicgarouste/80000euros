@@ -96,146 +96,6 @@
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#28324e"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-2",
-          "_params": {
-            "imageSize": "60",
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
-            "bgColor": "#76b865",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "images/iphone.png"
-            },
-            "video": {
-              "src": "https://youtu.be/d83MJgFpd7w",
-              "aspectratio": "16:9",
-              "autoplay": "on",
-              "loop": "on",
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "headerAlign": "left",
-          "title": "LE TOURNOI QUE VOUS NE POUVEZ MANQUER SOUS AUCUN PRETEXTE",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://goo.gl/pVzjsC\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VOTRE CADEAU ICI</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-8",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://goo.gl/pVzjsC\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLASSEMENT DES MEILLEURES MACHINES</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "images": [
-              {
-                "caption": "1er rang",
-                "thumb": "@PROJECT_PATH@/assets/images/sherwoodthumb-2000x778-800x311.png",
-                "image": "@PROJECT_PATH@/assets/images/sherwoodthumb-2000x778.png",
-                "active": false
-              },
-              {
-                "caption": "",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-itchin2win-2000x778-800x311.png",
-                "image": "@PROJECT_PATH@/assets/images/thumb-itchin2win-2000x778.png",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/champslogo-2000x778-800x311.png",
-                "image": "@PROJECT_PATH@/assets/images/champslogo-2000x778.png",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-heroesrealm-2000x778-800x311.png",
-                "image": "@PROJECT_PATH@/assets/images/thumb-heroesrealm-2000x778.png",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/cirqueduslotslogo-2000x778-800x311.png",
-                "image": "@PROJECT_PATH@/assets/images/cirqueduslotslogo-2000x778.png",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/logo-2000x778-800x311.png",
-                "image": "@PROJECT_PATH@/assets/images/logo-2000x778.png",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/cavaliercashtitle-2000x778-800x311.png",
-                "image": "@PROJECT_PATH@/assets/images/cavaliercashtitle-2000x778.png",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/gamebanner-2000x778-800x311.png",
-                "image": "@PROJECT_PATH@/assets/images/-gamebanner-2000x778.png",
-                "active": true
-              }
-            ],
-            "showText": false,
-            "bgColor": "#ffffff",
-            "fullWidth": true,
-            "noGutter": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery1-6",
-          "articleLayout": false
-        },
-        {
           "_inherit": "features1",
           "_tags": [
             "Theme"
@@ -266,7 +126,7 @@
             "showButtons": false
           },
           "headerAlign": "left",
-          "header": "CLASSEMENT INTERMEDIAIRE ET PRIX DU GRAND TOURNOI VEGASFIESTA",
+          "header": "CLASSEMENT FINAL",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
@@ -286,7 +146,7 @@
             }
           },
           "title1": "IDENTIFIANT",
-          "caption1": "MILFATO<br><br>RINTINTIN<br><br>VOCTOROL<br><br>POSSERR<br><br>BENEDICT32<br><br>BRIGITTEMA<br><br>ROSSI.MA<br><br>AHAMAD<br><br>JEANPETIT<br><br>ROULETTE22<br>",
+          "caption1": "ROSSI.MA<br><br>POSSERR<br><br>VOCTOROL<br><br>RINTINTIN<br><br>BENEDICT32<br><br>BRIGITTEMA<br><br>AHAMAD<br><br>MADELINE.5<br><br>ROULETTE22<br><br>GROSJEAN22<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -346,7 +206,7 @@
             }
           },
           "title4": "IDENTIFIANT",
-          "caption4": "MADELINE.5<br><br>GROSJEAN22<br><br>LAVALINE27<br><br>CORINNEMALI<br><br>SISS54000<br><br>IBOUTET<br><br>PATCHWORK<br><br>YSATIS33<br><br>CANIYO4<br><br>PATOUNETTE<br>",
+          "caption4": "SOPHIE_RIMBAUD<br><br>VALERIELEDUC<br><br>LAVALINE27<br><br>ED_GAGNE<br><br>CORINNEMALI<br><br>SISSI54000<br><br>CANIYO4<br><br>JJOUEUR60<br><br>YSATIS33<br><br>KIMMLEE",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -402,55 +262,6 @@
               "font-size": "20px"
             }
           }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-0",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#f7da64",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true
-          },
-          "title": "FORMULAIRE D'INSCRIPTION",
-          "form": {
-            "action": "loic@vegasfiesta.com",
-            "alerts": {
-              "success": "MERCI ET BONNE CHANCE!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "NOM*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "EMAIL*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "TELEPHONE*"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "MESSAGE*"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACTEZ NOUS</a>"
         }
       ]
     }
